@@ -21,4 +21,4 @@ class Solution {
 // Example usage:
 $solution = new Solution();
 $nums = [1, 7, 3, 6, 5, 6];
-echo $solution->pivotIndex($nums);  // Output: 3
+echo $solution->pivotIndex($nums);  
