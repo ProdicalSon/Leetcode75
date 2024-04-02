@@ -18,6 +18,6 @@ class Solution(object):
 
 # Example usage:
 solution = Solution()
-flowerbed = [1,0,0,0,1]
+flowerbed = [0,1,0,1,0,1]
 n = 1
-print(solution.canPlaceFlowers(flowerbed, n))  # Output: True
+print(solution.canPlaceFlowers(flowerbed, n))
